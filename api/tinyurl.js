@@ -6,7 +6,7 @@ exports.config = {
     aliases: ["shorten", "shorturl", "urlshort"],
     info: "Shortens the provided URL",
     usage: ["/tinyurl?url=https://google.com"],
-    author: "Kenneth Panio"
+    author: "Jay D Bohol"
 };
 
 exports.initialize = async ({ req, res }) => {
