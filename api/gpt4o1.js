@@ -4,7 +4,7 @@ exports.config = {
     name: "ai",
     aliases: ["gpt4o1", "o1", "o1p", "gpt"],
     version: "1.0.0",
-    credits: "Kenneth Panio",
+    credits: "Jay D Bohol",
     info: "Interact with GPT-4 o1 preview AI with websearch, file generation, and image recognition based on image URL in query.",
     usage: [`/ai?prompt=generate_a_cat_image&uid=${Date.now()}`],
     guide: "ai How does quantum computing work?",
