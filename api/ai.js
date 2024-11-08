@@ -7,7 +7,7 @@ exports.config = {
   name: 'gpt4om',
   aliases: ["gpt4olite"],
   version: '1.0.0',
-  author: 'Kenneth Panio',
+  author: 'Jay D Bohol',
   info: 'Interact with GPT-4O-Mini Fast & Lite Version.',
   usage: [`/gpt4om?prompt=hello&uid=${Date.now()}`],
   category: 'ai',
