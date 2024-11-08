@@ -11,7 +11,7 @@ exports.config = {
     name: "gemini",
     aliases: ["google"],
     version: "1.0.0",
-    author: "Kenneth Panio",
+    author: "Jay D Bohol",
     category: "ai",
     info: "Interact with Google Gemini AI with image/video/audio/pdf recognition.\nAvailable Models:\n\n gemini-1.5-flash, gemini-1.5-pro, gemini-1.0-pro, gemini-1.0-pro-latest, gemini-1.0-pro-001, gemini-1.5-pro-latest, gemini-1.5-pro-001, gemini-1.5-pro-exp-0801, gemini-1.5-flash-001, gemini-1.5-flash-latest",
     usage: [`/google?prompt=hello&model=gemini-1.5-flash&uid=${Date.now()}&roleplay=You're Neko&google_api_key=&file_url=`],
