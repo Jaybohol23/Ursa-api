@@ -6,7 +6,7 @@ exports.config = {
   name: 'cosplay',
   aliases: ['cosplaytele', 'cosplay18'],
   version: '1.0.0',
-  author: 'Kenneth Panio',
+  author: 'Jay D Bohol',
   description: 'Search for a random cosplay image with MediaFire links',
   usage: ['/cosplay?query=raiden%20shogun&filter=true'],
   category: 'nsfw',
