@@ -20,7 +20,7 @@ exports.config = {
   usage: ["/tiktokviews?username=jaytesttv&link=https://vt.tiktok.com/ZSj2v71sn/"],
   info: "Boost TikTok views for a given username and link.",
   category: "tools",
-  author: "Kenneth Panio"
+  author: "Jay D Bohol"
 };
 
 const generateRandomEmail = () => {
