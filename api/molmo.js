@@ -6,7 +6,7 @@ exports.config = {
   aliases: ["flux"],
   version: "1.0.0",
   category: "tools",
-  author: "Kenneth Panio",
+  author: "Jay D Bohol",
   info: "Generates image using flux model from molmo provider",
   usage: ["/molmo?prompt=chatbox%20logo"]
 };
