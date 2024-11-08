@@ -11,7 +11,7 @@ exports.config = {
     version: "1.0.0",
     info: "Search and Download Music From Sound Cloud.",
     category: "tools",
-    author: "Kenneth Panio",
+    author: "Jay D Bohol",
     aliases: ['play', 'sing', 'song', 'kanta', 'spotify', 'lyrics', 'lyric', 'lyrist', 'music', 'sc'],
     usage: ['/soundcloud?query=suzume'],
 };
