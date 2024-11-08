@@ -7,7 +7,7 @@ exports.config = {
   usage: ["/aidetect?text=helloWorld!"],
   info: "Detect if the text is AI-generated or human-written.",
   category: "tools",
-  author: "Kenneth Panio"
+  author: "Jay D Bohol"
 };
 
 exports.initialize = async ({ req, res, font }) => {
